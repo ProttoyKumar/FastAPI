@@ -1,0 +1,1 @@
+This repository explores the fundamentals of FastAPI, a modern, high-performance web framework designed for building APIs with Python. It features hands-on examples of asynchronous programming, automatic data validation, and streamlined documentation.
